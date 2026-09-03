@@ -1,0 +1,1 @@
+AI Project Management Machine — 128 unique PM scenarios. One index.html, UA/EN/PL data files, mobile responsive, noindex.
