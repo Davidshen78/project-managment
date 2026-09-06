@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-pm-machine.vercel.app/sitemap.xml
